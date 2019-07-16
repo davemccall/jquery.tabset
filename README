@@ -1,0 +1,12 @@
+tabset
+
+A very simple jQuery tabset widget
+
+Will turn every even item within the container element
+into a tab and every odd item into a content page.
+When tabs are clicked, tabs display (and the others hide).
+By default the first tab will be selected.
+
+Documentation and licence in js header.
+
+sample.htm will show usage.

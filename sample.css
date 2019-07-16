@@ -1,0 +1,26 @@
+body {
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 17px;
+	line-height: 1.6em;
+}
+.container {
+	width: 900px;
+	margin: auto;
+}
+
+.tabset .tabset-tabs {
+	background-color: #cccccc;
+	padding: 5px 5px 0 5px;
+}
+.tabset .tabset-tabs > div {
+	display: inline-block;
+	margin-right: 20px;
+	padding: 5px;
+}
+.tabset .tabset-tabs > div.selected {
+	background-color: white;
+	border-radius: 5px 5px 0 0;
+}
+.tabset .tabset-contents {
+	padding: 5px;
+}
